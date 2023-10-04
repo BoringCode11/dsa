@@ -74,3 +74,7 @@ otherNums[0] = 100
 // ! Mutator functions -> './mutator-funcs.js'
 
 // ! Iterator functions -> './iterator-funcs.js'
+
+// ! Multi-dimensional arrays -> './2d-arrays.js'
+
+// ! Array Of Objects -> './array-objects.js'
